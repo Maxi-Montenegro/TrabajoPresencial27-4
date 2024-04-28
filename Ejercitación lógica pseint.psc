@@ -5,6 +5,7 @@
 //2) Ver las ventas de un representante ingresado por teclado
 //3) salir
 
+//test usamos una mastriz
 //01234
 //ABCDE
 
