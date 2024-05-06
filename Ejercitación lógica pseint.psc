@@ -24,7 +24,7 @@ Proceso RegistroVentas // Proceso principal a donde llamaremos los sub Procesos
                 estadisticasDeVentas();
             3:
                 Escribir  "Saliendo del programa...";
-            OtroCaso:
+            De Otro Modo:
                 Escribir "Opción no válida. Intente de nuevo.";
         FinSegun
     Hasta Que opcionMenu = 3
